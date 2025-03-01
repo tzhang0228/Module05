@@ -1,3 +1,4 @@
+
 /*
 Universal */
 
@@ -7,7 +8,7 @@ body {margin: 0;
 
 
 /*Navigation*/nav ul {
-       list-style-type : square;
+       list-style-type: square;
 }
 
 
@@ -46,6 +47,8 @@ main {
   padding: 1rem ;
      border-right: 1px solid  black;
 }
+.spacing {
+margin-top: 70px;}
 
 aside {width: 30%;
     float: right;
