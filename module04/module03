@@ -1,1 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What an Ugly Page</title>
+</head>
+<body>
+    
+    <header>
+        <h1>What an Ugly Page</h1>
+        <p>There's plenty of room for growth</p>
+    </header>
 
+
+    <nav>
+        <ul>
+            <li><a href="https://www.howcast.com/" target="_blank" rel="nofollow">Howcast</a></li>
+            <li><a href="https://www.nationalgeographic.com/" target="_blank" rel="nofollow">National Geographic</a></li>
+            <li> 
+            <a href="https://www.wikipedia.org/" target="_blank" and rel="nofollow">wikipedia</a>
+                <ul>
+                    <li><a href="https://en.wikipedia.org/wiki/History_of_Wikipedia" target="_blank" rel="nofollow">wikipedia history</a></li>
+                    
+                    <li><a href="https://en.wikipedia.org/wiki/English_Wikipedia" target="_blank" rel="nofollow">english wikipedia</a></li>
+                </ul>
+            </li>
+            <li><a href="https://www.wikihow.com" target="_blank" rel="nofollow">wikihow</a>
+                
+                <ul>
+                    <li><a href="https://www.wikihow.com/Games/This-Or-That" target="_blank" rel="nofollow">wikihow this or that</a></li>
+
+                    <li><a href="https://www.wikihow.com/Survive-an-Apocalypse" target="_blank" rel="nofollow">wikihow survival</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+
+    
+    <main>
+        
+        <section class="primary">
+            
+            <article>
+                <h2>Topic of Interest</h2>
+                <p>Weight gain and weight loss is about my topic of interest. It has some <strong> important information about body fat</strong> and some <em>emphasized contents on gaining weight</em>.</p>
+            </article>
+
+            
+            <article>
+                <h2>Article Title 1</h2>
+                <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Curabitur at justo et nisi pharetra scelerisque. Integer dapibus, risus non posuere tincidunt, odio ligula maximus erat, id fermentum lorem elit eget libero. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+            </article>
+
+            <article>
+                <h2>Article Title 2</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at justo et nisi pharetra scelerisque. Integer dapibus, risus non posuere tincidunt, odio ligula maximus erat, id fermentum lorem elit eget libero. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla facilisi. Fusce eget felis euismod, vehicula augue ac, ultrices lacus. Sed vitae nisl nec purus consectetur sagittis at non magna. Praesent euismod, ligula nec volutpat interdum, purus nulla tincidunt elit, eget laoreet risus justo eget enim.</p>
+            </article>
+
+            
+            <aside>
+                
+                <section class="ad">
+                    <img src="https://github.com/tzhang0228/Module05/blob/main/Weightgain.jpg" alt="Fake Ad 1" width="200" height="auto">
+                    <p> No pain no gain!!!</p>
+                </section>
+
+                <section class="ad">
+                    <img src="https://github.com/tzhang0228/Module05/blob/main/Remedy.jpg" alt="Fake Ad 2" width="200" height="auto">
+                    <p>I can never feel lighter!</p>
+                </section>
+            </aside>
+
+            
+            <section> Section 1: The way for gaining weight </section>
+            <section> Section 2: The care for weight loss</section>
+
+        </section>
+
+    </main>
+
+    
+    <footer>&copy; Toby Zhang 2025</footer>
+
+</body>
+</html>
